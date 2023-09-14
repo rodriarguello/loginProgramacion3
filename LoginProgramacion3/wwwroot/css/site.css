@@ -1,0 +1,26 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: linear-gradient(90deg,#6300b1,#8d006c);
+    color:#fff;
+}
+
+.boton-redondeado{
+    border-radius:20px !important;
+}
+
